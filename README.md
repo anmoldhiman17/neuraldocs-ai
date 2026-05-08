@@ -1,9 +1,12 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=280&section=header&text=NeuralDocs%20AI&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Intelligent%20Document%20Q%26A%20%E2%80%94%20Powered%20by%20RAG&descAlignY=62&descSize=20&animation=fadeIn" width="100%" alt="NeuralDocs AI"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      HERO BANNER                           -->
+<!-- Upload image 1 (wide angel + docs) as assets/banner.png   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="assets/banner.png" width="100%" alt="NeuralDocs AI — Experience the next generation of documentation. Intelligent. Structured. Revolutionary."/>
 
-<br/>
+<br/><br/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
@@ -207,6 +210,8 @@ neuraldocs-ai/
 │   └── utils.py                   ← Shared helpers
 │
 ├── 📂 assets/
+│   ├── banner.png                 ← Header banner image  ← ADD THIS
+│   ├── footer.png                 ← Footer banner image  ← ADD THIS
 │   └── style.css                  ← Dark glassmorphism theme
 │
 ├── 📂 .streamlit/
@@ -342,9 +347,16 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER BANNER                         -->
+<!-- Upload image 2 (vertical angel + cosmos) as assets/footer.png -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
+<img src="assets/footer.png" width="60%" alt="NeuralDocs AI — Next-generation AI-powered documentation. Intelligent. Insightful. Revolutionary."/>
+
+<br/><br/>
 
 **Made with ❤️ by [Anmol Dhiman](https://github.com/anmoldhiman17)**
 
