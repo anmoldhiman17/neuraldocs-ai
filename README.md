@@ -122,7 +122,6 @@ Built for researchers, students, and knowledge workers who need more than a keyw
 
 </div>
 
-> 📂 Place your screenshots in `assets/screenshots/` — filenames: `interface.png`, `knowledge_base.png`, `knowledge_base_processing.png`, `ai_chat.png`, `ai_chat_response.png`, `settings.png`
 
 <br/>
 
