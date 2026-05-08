@@ -1,34 +1,40 @@
 <div align="center">
 
-<br/>
-
-```
-███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗     ██████╗  ██████╗  ██████╗███████╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║     ██╔══██╗██╔═══██╗██╔════╝██╔════╝
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║     ██║  ██║██║   ██║██║     ███████╗
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║     ██║  ██║██║   ██║██║     ╚════██║
-██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗██████╔╝╚██████╔╝╚██████╗███████║
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝  ╚═════╝╚══════╝
-```
-
-### 🧠 *Intelligent Document Q&A — Powered by RAG*
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=280&section=header&text=NeuralDocs%20AI&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Intelligent%20Document%20Q%26A%20%E2%80%94%20Powered%20by%20RAG&descAlignY=62&descSize=20&animation=fadeIn" width="100%" alt="NeuralDocs AI"/>
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-HuggingFace_Spaces-FF4B4B?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Anmoldhiman17/neuraldocs-ai)
-[![GitHub Repo](https://img.shields.io/badge/📦_Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmoldhiman17/neuraldocs-ai)
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![LangChain](https://img.shields.io/badge/LangChain-Latest-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Upload+any+PDF.+Ask+anything.;Intelligent+answers+from+your+documents.;Powered+by+LangChain+%2B+Mistral+AI;Built+with+ChromaDB+%2B+Streamlit" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-> **Upload any PDF. Ask anything. Get intelligent answers — grounded in your documents.**
->
-> NeuralDocs AI is a full-stack Retrieval-Augmented Generation (RAG) application that transforms static documents into a living, queryable knowledge base powered by vector embeddings and large language models.
+<!-- BADGES ROW 1 -->
+<a href="https://huggingface.co/spaces/Anmoldhiman17/neuraldocs-ai">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-FF4B4B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/anmoldhiman17/neuraldocs-ai">
+  <img src="https://img.shields.io/badge/📦%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/anmoldhiman17/neuraldocs-ai/stargazers">
+  <img src="https://img.shields.io/github/stars/anmoldhiman17/neuraldocs-ai?style=for-the-badge&color=6366f1&logo=starship&logoColor=white" alt="Stars"/>
+</a>
 
-<br/>
+<br/><br/>
+
+<!-- BADGES ROW 2 -->
+<img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-1.x-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-Latest-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mistral%20AI-LLM-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deployed%20on-HuggingFace-FF4B4B?style=flat-square&logo=huggingface"/>
+
+<br/><br/>
 
 ---
 
@@ -36,108 +42,69 @@
 
 <br/>
 
-## ✨ Features
+## 🌌 What is NeuralDocs AI?
 
-<table>
-<tr>
-<td width="50%">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-### 🔍 Intelligent Retrieval
-- **MMR (Maximal Marginal Relevance)** retrieval for diverse, non-redundant results
-- **ChromaDB** vector store with persistent embeddings
-- Configurable `top-k`, `fetch-k`, and `lambda` parameters
-- Smart chunk-level source filtering
+> **NeuralDocs AI** is a full-stack **Retrieval-Augmented Generation (RAG)** application that turns your static PDF documents into a living, queryable intelligence layer — powered by vector embeddings and large language models.
 
-</td>
-<td width="50%">
+- 📤 **Upload** any PDF document
+- ⚡ **Process** it into semantic chunks with embeddings
+- 💬 **Chat** with your documents in real time
+- 🔍 **Get answers** grounded in your actual content — no hallucinations
 
-### 💬 ChatGPT-Style Interface
-- Real-time streaming responses
-- Full conversation history
-- Source attribution per message
-- Suggested starter questions
+Built for researchers, students, and knowledge workers who need more than a keyword search.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 Document Management
-- Drag-and-drop multi-PDF upload
-- Live processing progress with page/chunk stats
-- Search & filter indexed documents
-- One-click document deletion
-
-</td>
-<td width="50%">
-
-### ⚙️ Full Customization
-- Embedding model selection
-- Adjustable chunk size & overlap
-- Temperature control for LLM
-- Vector DB reset & data management
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Mobile-Ready
-- Sticky top navigation bar for mobile users
-- Responsive layout across all screen sizes
-- "Start Chatting Now →" shortcut after upload
-
-</td>
-<td width="50%">
-
-### 🔐 Secure by Design
-- API key loaded from environment secrets
-- Never exposed in the UI when set via HF Secrets
-- `/tmp`-based storage for HuggingFace Spaces compliance
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
 ---
 
-## 🏗️ Architecture
+## ✨ Feature Highlights
+
+<div align="center">
+
+| 🔍 Smart Retrieval | 💬 Chat Interface | 📄 Doc Management |
+|---|---|---|
+| MMR-based diversity ranking | ChatGPT-style conversation | Drag & drop multi-PDF upload |
+| ChromaDB vector persistence | Full conversation history | Per-document page & chunk stats |
+| Configurable k, fetch-k, λ | Source attribution per reply | Search, filter & delete docs |
+
+| ⚙️ Full Control | 📱 Mobile Ready | 🔐 Secure |
+|---|---|---|
+| Chunk size & overlap tuning | Sticky top nav for mobile | API key via HF Secrets |
+| LLM temperature control | Responsive across all screens | Never exposed in UI |
+| Embedding model selection | "Start Chatting →" shortcut | `/tmp` filesystem compliance |
+
+</div>
+
+<br/>
+
+---
+
+## 🏗️ System Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                      NeuralDocs AI                          │
-│                    Streamlit Frontend                       │
-├───────────────┬─────────────────────┬───────────────────────┤
-│  Knowledge    │      Chat Page      │      Settings         │
-│  Base Page    │  (RAG Interface)    │      Page             │
-│  PDF Upload   │  Query + Answer     │  Config & Tuning      │
-└──────┬────────┴──────────┬──────────┴───────────────────────┘
-       │                   │
-       ▼                   ▼
-┌─────────────┐    ┌──────────────────┐
-│  PyPDFLoader│    │  RAG Pipeline    │
-│  + Splitter │    │  ┌────────────┐  │
-│             │    │  │  Retriever │  │
-│  Chunk Size │    │  │  (MMR)     │  │
-│  + Overlap  │    │  └────┬───────┘  │
-└──────┬──────┘    │       │          │
-       │           │  ┌────▼───────┐  │
-       ▼           │  │  Mistral   │  │
-┌─────────────┐    │  │  AI LLM    │  │
-│  HuggingFace│    │  └────────────┘  │
-│  Embeddings │    └──────────────────┘
-│  all-MiniLM │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│  ChromaDB   │
-│  Vector     │
-│  Store      │
-│  /tmp/      │
-└─────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                        NeuralDocs AI                            ║
+║                     Streamlit Frontend                          ║
+╠══════════════╦═══════════════════════╦════════════════════════╣
+║  📚 Knowledge║    💬 Chat Interface  ║    ⚙️ Settings          ║
+║  Base Page   ║   Query → RAG → LLM  ║  Config & Tuning        ║
+╠══════════════╩═══════════════════════╩════════════════════════╣
+║                      backend/                                   ║
+║  ┌──────────────┐  ┌──────────────┐  ┌─────────────────────┐  ║
+║  │ PyPDFLoader  │  │  Retriever   │  │    RAG Pipeline     │  ║
+║  │ + Splitter   │→ │  MMR Search  │→ │  Mistral AI LLM     │  ║
+║  └──────┬───────┘  └──────┬───────┘  └─────────────────────┘  ║
+║         │                 │                                     ║
+║  ┌──────▼───────┐  ┌──────▼───────┐                           ║
+║  │  HuggingFace │  │   ChromaDB   │                           ║
+║  │  Embeddings  │→ │ Vector Store │                           ║
+║  │ all-MiniLM   │  │  /tmp/       │                           ║
+║  └──────────────┘  └──────────────┘                           ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -146,46 +113,43 @@
 
 ## 🚀 Quick Start
 
-### 1. Clone the repo
+### Prerequisites
+
+```bash
+Python >= 3.11
+Mistral AI API Key  →  https://console.mistral.ai/
+```
+
+### 1️⃣ Clone
 
 ```bash
 git clone https://github.com/anmoldhiman17/neuraldocs-ai.git
 cd neuraldocs-ai
 ```
 
-### 2. Create a virtual environment
+### 2️⃣ Install
 
 ```bash
 python -m venv venv
-source venv/bin/activate      # Linux / macOS
-venv\Scripts\activate         # Windows
-```
+source venv/bin/activate          # macOS/Linux
+# venv\Scripts\activate           # Windows
 
-### 3. Install dependencies
-
-```bash
 pip install -r requirements.txt
 ```
 
-### 4. Set your Mistral API key
+### 3️⃣ Configure
 
 ```bash
-# Linux / macOS
-export MISTRAL_API_KEY="your_key_here"
-
-# Windows (PowerShell)
-$env:MISTRAL_API_KEY="your_key_here"
+export MISTRAL_API_KEY="your_mistral_api_key_here"
 ```
 
-> Get your free API key at → [console.mistral.ai](https://console.mistral.ai/)
-
-### 5. Run the app
+### 4️⃣ Launch 🎉
 
 ```bash
 streamlit run app.py
 ```
 
-Open your browser at `http://localhost:8501` 🎉
+Open → **http://localhost:8501**
 
 <br/>
 
@@ -193,21 +157,30 @@ Open your browser at `http://localhost:8501` 🎉
 
 ## ☁️ Deploy on HuggingFace Spaces
 
-[![Deploy to HuggingFace](https://img.shields.io/badge/Deploy_to-HuggingFace_Spaces-FF4B4B?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/new-space)
+<div align="center">
+<a href="https://huggingface.co/spaces/Anmoldhiman17/neuraldocs-ai">
+<img src="https://img.shields.io/badge/▶%20Try%20Live%20Demo%20Now-HuggingFace%20Spaces-FF4B4B?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=FF4B4B" height="40"/>
+</a>
+</div>
 
-1. Create a new **Streamlit** Space on HuggingFace
-2. Push this repo to the Space:
-   ```bash
-   git remote add hf https://huggingface.co/spaces/YOUR_USERNAME/neuraldocs-ai
-   git push hf main
-   ```
-3. Go to **Settings → Repository Secrets** and add:
-   ```
-   MISTRAL_API_KEY = your_key_here
-   ```
-4. Wait for the Space to build — you're live! 🚀
+<br/>
 
-> **Note:** HuggingFace Spaces uses a read-only filesystem. The app automatically uses `/tmp/` for all file writes (ChromaDB + uploaded PDFs). Data resets on Space restart — for persistent storage, connect a HuggingFace Dataset.
+**Steps to deploy your own:**
+
+```bash
+# 1. Create a new Streamlit Space on huggingface.co/new-space
+
+# 2. Add HuggingFace as a remote
+git remote add hf https://huggingface.co/spaces/YOUR_USERNAME/neuraldocs-ai
+
+# 3. Push
+git push hf main
+
+# 4. Add secret in Space Settings → Repository Secrets:
+#    MISTRAL_API_KEY = your_key_here
+```
+
+> ⚠️ **HuggingFace filesystem note:** The app automatically writes to `/tmp/` for all uploads and ChromaDB. Data resets on Space restart. For persistent storage, connect a HuggingFace Dataset.
 
 <br/>
 
@@ -218,32 +191,29 @@ Open your browser at `http://localhost:8501` 🎉
 ```
 neuraldocs-ai/
 │
-├── app.py                     # 🚀 Main Streamlit entry point + navigation
+├── 🚀 app.py                      ← Main entry point + navigation
 │
-├── pages/
-│   ├── __init__.py
-│   ├── dashboard.py           # 📊 Stats overview page
-│   ├── knowledge_base.py      # 📚 PDF upload & management
-│   ├── chat.py                # 💬 RAG chat interface
-│   └── settings.py            # ⚙️  API keys, model & retrieval config
+├── 📂 pages/
+│   ├── dashboard.py               ← Overview stats
+│   ├── knowledge_base.py          ← PDF upload & management
+│   ├── chat.py                    ← RAG chat interface
+│   └── settings.py                ← Config panel
 │
-├── backend/
-│   ├── __init__.py
-│   ├── database.py            # 🗄️  ChromaDB vector store CRUD
-│   ├── embeddings.py          # 🧬 HuggingFace embedding model loader
-│   ├── retriever.py           # 🔍 MMR retriever setup
-│   ├── rag_pipeline.py        # 🤖 Full RAG chain (retrieve → prompt → LLM)
-│   └── utils.py               # 🛠️  Shared helpers & directory management
+├── 📂 backend/
+│   ├── database.py                ← ChromaDB vector store CRUD
+│   ├── embeddings.py              ← HuggingFace embedding loader
+│   ├── retriever.py               ← MMR retriever setup
+│   ├── rag_pipeline.py            ← Full RAG chain
+│   └── utils.py                   ← Shared helpers
 │
-├── assets/
-│   └── style.css              # 🎨 Custom dark glassmorphism theme
+├── 📂 assets/
+│   └── style.css                  ← Dark glassmorphism theme
 │
-├── .streamlit/
-│   └── config.toml            # ⚙️  Streamlit server config
+├── 📂 .streamlit/
+│   └── config.toml                ← Server config (CORS, upload limits)
 │
-├── Dockerfile                 # 🐳 HuggingFace Spaces Docker config
-├── requirements.txt           # 📦 Python dependencies
-└── README.md
+├── 🐳 Dockerfile                  ← HuggingFace Docker config
+└── 📦 requirements.txt
 ```
 
 <br/>
@@ -252,16 +222,20 @@ neuraldocs-ai/
 
 ## 🧬 Tech Stack
 
-| Layer | Technology | Purpose |
+<div align="center">
+
+| Layer | Technology | Role |
 |---|---|---|
-| **Frontend** | [Streamlit](https://streamlit.io) | UI framework — pages, chat, widgets |
-| **LLM** | [Mistral AI](https://mistral.ai) (`mistral-small-2506`) | Answer generation |
-| **Embeddings** | [HuggingFace](https://huggingface.co) (`all-MiniLM-L6-v2`) | Text vectorization |
-| **Vector DB** | [ChromaDB](https://www.trychroma.com) | Persistent embedding storage |
-| **RAG Framework** | [LangChain](https://langchain.com) | Document loading, splitting, retrieval |
-| **PDF Parsing** | `PyPDFLoader` | Extract text from uploaded PDFs |
-| **Retrieval Strategy** | MMR (Maximal Marginal Relevance) | Diverse, non-redundant chunk retrieval |
-| **Deployment** | [HuggingFace Spaces](https://huggingface.co/spaces) | Cloud hosting (Docker) |
+| 🖼️ **Frontend** | Streamlit | UI, pages, file upload, chat |
+| 🤖 **LLM** | Mistral AI `mistral-small-2506` | Answer generation |
+| 🧬 **Embeddings** | HuggingFace `all-MiniLM-L6-v2` | Semantic vectorization |
+| 🗄️ **Vector DB** | ChromaDB | Embedding persistence & search |
+| 🔗 **RAG Framework** | LangChain | Load → Split → Retrieve → Generate |
+| 📄 **PDF Parsing** | PyPDFLoader | Text extraction from PDFs |
+| 🔍 **Retrieval** | MMR (Maximal Marginal Relevance) | Diverse, relevant chunk selection |
+| ☁️ **Hosting** | HuggingFace Spaces (Docker) | Cloud deployment |
+
+</div>
 
 <br/>
 
@@ -269,17 +243,52 @@ neuraldocs-ai/
 
 ## ⚙️ Configuration Reference
 
-All parameters are tunable from the **Settings page** in the UI:
+| Parameter | Default | Range | Description |
+|---|---|---|---|
+| `embedding_model` | `all-MiniLM-L6-v2` | — | Vectorization model |
+| `chunk_size` | `1000` | 200–3000 | Characters per chunk |
+| `chunk_overlap` | `200` | 0–500 | Overlap between chunks |
+| `retrieval_k` | `6` | 1–20 | Chunks returned per query |
+| `retrieval_fetch_k` | `20` | 5–50 | MMR candidate pool size |
+| `retrieval_lambda` | `0.5` | 0–1 | Diversity ↔ Relevance tradeoff |
+| `temperature` | `0.3` | 0–1 | LLM creativity level |
 
-| Parameter | Default | Description |
-|---|---|---|
-| `embedding_model` | `all-MiniLM-L6-v2` | HuggingFace model for vectorizing text |
-| `chunk_size` | `1000` | Characters per document chunk |
-| `chunk_overlap` | `200` | Overlap between consecutive chunks |
-| `retrieval_k` | `6` | Number of chunks returned per query |
-| `retrieval_fetch_k` | `20` | Candidate pool size before MMR filtering |
-| `retrieval_lambda` | `0.5` | MMR diversity/relevance tradeoff (0=diverse, 1=relevant) |
-| `temperature` | `0.3` | LLM creativity (0=focused, 1=creative) |
+<br/>
+
+---
+
+## 📊 How RAG Works
+
+```
+ User Query
+     │
+     ▼
+┌─────────────────┐
+│  Embed Query    │  ← same embedding model as docs
+│  (MiniLM)       │
+└────────┬────────┘
+         │  query vector
+         ▼
+┌─────────────────┐
+│  ChromaDB MMR   │  ← fetch 20 candidates, return top 6
+│  Retrieval      │     diverse & relevant chunks
+└────────┬────────┘
+         │  retrieved chunks
+         ▼
+┌─────────────────┐
+│  Prompt Builder │  ← system prompt + context + question
+│  (LangChain)    │
+└────────┬────────┘
+         │  final prompt
+         ▼
+┌─────────────────┐
+│  Mistral AI LLM │  ← grounded, document-aware answer
+│  mistral-small  │
+└────────┬────────┘
+         │
+         ▼
+   Answer + Sources  →  Displayed in Chat UI
+```
 
 <br/>
 
@@ -287,13 +296,17 @@ All parameters are tunable from the **Settings page** in the UI:
 
 ## 🗺️ Roadmap
 
+- [x] ✅ Multi-PDF upload & processing
+- [x] ✅ MMR retrieval with configurable parameters
+- [x] ✅ Mobile-responsive navigation
+- [x] ✅ API key security via HF Secrets
+- [x] ✅ Active-document filtering (no stale sources)
 - [ ] 🌐 Web URL ingestion (scrape & embed web pages)
-- [ ] 🗂️ Multi-collection support (separate knowledge bases)
-- [ ] 🔗 HuggingFace Datasets integration for persistent storage
-- [ ] 📊 Document analytics & query history dashboard
-- [ ] 🧑‍🤝‍🧑 Multi-user support with isolated sessions
-- [ ] 📤 Export chat history as PDF/Markdown
+- [ ] 🗂️ Multi-collection knowledge bases
+- [ ] 🔗 HuggingFace Datasets for persistent storage
+- [ ] 📤 Export chat history as PDF / Markdown
 - [ ] 🌍 Multilingual document support
+- [ ] 🧑‍🤝‍🧑 Multi-user isolated sessions
 
 <br/>
 
@@ -301,23 +314,21 @@ All parameters are tunable from the **Settings page** in the UI:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how to get started:
-
 ```bash
-# 1. Fork the repo and clone
+# 1. Fork → Clone
 git clone https://github.com/YOUR_USERNAME/neuraldocs-ai.git
 
-# 2. Create a feature branch
-git checkout -b feature/your-feature-name
+# 2. Create branch
+git checkout -b feat/your-feature
 
-# 3. Commit your changes
-git commit -m "feat: add your feature"
+# 3. Commit (Conventional Commits)
+git commit -m "feat: describe your change"
 
-# 4. Push and open a Pull Request
-git push origin feature/your-feature-name
+# 4. Push + Open PR
+git push origin feat/your-feature
 ```
 
-Please follow [Conventional Commits](https://www.conventionalcommits.org/) for commit messages.
+All contributions welcome — bug fixes, features, docs, UI improvements.
 
 <br/>
 
@@ -325,7 +336,7 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 <br/>
 
@@ -333,13 +344,16 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ by [Anmol Dhiman](https://github.com/anmoldhiman17)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
 
-*Powered by LangChain · ChromaDB · Mistral AI · Streamlit*
+**Made with ❤️ by [Anmol Dhiman](https://github.com/anmoldhiman17)**
+
+*LangChain · ChromaDB · Mistral AI · Streamlit · HuggingFace*
 
 <br/>
 
 [![Star this repo](https://img.shields.io/github/stars/anmoldhiman17/neuraldocs-ai?style=social)](https://github.com/anmoldhiman17/neuraldocs-ai/stargazers)
+&nbsp;&nbsp;
 [![Follow on GitHub](https://img.shields.io/github/followers/anmoldhiman17?style=social)](https://github.com/anmoldhiman17)
 
 <br/>
