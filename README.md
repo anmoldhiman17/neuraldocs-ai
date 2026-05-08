@@ -86,6 +86,48 @@ Built for researchers, students, and knowledge workers who need more than a keyw
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="assets/screenshots/interface.png" width="85%" alt="NeuralDocs AI — Main Dashboard"/>
+
+<br/>
+<sub>🏠 <b>Main Dashboard</b> — Overview of documents, pages, messages & sessions with quick-action shortcuts</sub>
+
+<br/><br/>
+
+<img src="assets/screenshots/knowledge_base.png" width="49%" alt="Knowledge Base — Upload"/>
+&nbsp;
+<img src="assets/screenshots/knowledge_base_processing.png" width="49%" alt="Knowledge Base — Processing"/>
+
+<br/>
+<sub>📚 <b>Knowledge Base</b> — Drag-and-drop PDF upload (left) &nbsp;·&nbsp; Real-time processing with success toast (right)</sub>
+
+<br/><br/>
+
+<img src="assets/screenshots/ai_chat.png" width="49%" alt="AI Chat — Ready State"/>
+&nbsp;
+<img src="assets/screenshots/ai_chat_response.png" width="49%" alt="AI Chat — Response View"/>
+
+<br/>
+<sub>💬 <b>AI Chat</b> — Ready state with suggested prompts (left) &nbsp;·&nbsp; Structured document-grounded answer (right)</sub>
+
+<br/><br/>
+
+<img src="assets/screenshots/settings.png" width="85%" alt="Settings — Configuration Panel"/>
+
+<br/>
+<sub>⚙️ <b>Settings</b> — Full control over embedding model, LLM temperature, chunk size, overlap & MMR retrieval parameters</sub>
+
+</div>
+
+> 📂 Place your screenshots in `assets/screenshots/` — filenames: `interface.png`, `knowledge_base.png`, `knowledge_base_processing.png`, `ai_chat.png`, `ai_chat_response.png`, `settings.png`
+
+<br/>
+
+---
+
 ## 🏗️ System Architecture
 
 ```
@@ -212,6 +254,13 @@ neuraldocs-ai/
 ├── 📂 assets/
 │   ├── banner.png                 ← Header banner image  ← ADD THIS
 │   ├── footer.png                 ← Footer banner image  ← ADD THIS
+│   ├── 📂 screenshots/            ← App screenshots      ← ADD THIS
+│   │   ├── interface.png
+│   │   ├── knowledge_base.png
+│   │   ├── knowledge_base_processing.png
+│   │   ├── ai_chat.png
+│   │   ├── ai_chat_response.png
+│   │   └── settings.png
 │   └── style.css                  ← Dark glassmorphism theme
 │
 ├── 📂 .streamlit/
