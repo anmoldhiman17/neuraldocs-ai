@@ -4,7 +4,7 @@
 <!--                      HERO BANNER                           -->
 <!-- Upload image 1 (wide angel + docs) as assets/banner.png   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img src="assets/banner.png" width="100%" alt="NeuralDocs AI — Experience the next generation of documentation. Intelligent. Structured. Revolutionary."/>
+<img src="assets/Banner.png" width="100%" alt="NeuralDocs AI — Experience the next generation of documentation. Intelligent. Structured. Revolutionary."/>
 
 <br/><br/>
 
